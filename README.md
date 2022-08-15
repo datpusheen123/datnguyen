@@ -1,2 +1,2 @@
 # datnguyenhub's files
-#### You can take my source code to your website if you want!
+#### You can use my source code for your website if you want!
